@@ -1,4 +1,4 @@
-# FirstAngular
+# First Angular Demo Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
@@ -26,3 +26,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 "# First-Angular-Demo" 
+
+# Project Screen Short
+
+## Angular Home Page
+![image] (https://github.com/Mindula-Dilthushan/First-Angular-Demo/blob/master/demo/Angular%20Home%20Page.jpg)
