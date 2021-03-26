@@ -30,4 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # Project Screen Short
 
 ## Angular Home Page
-! [image] (https://github.com/Mindula-Dilthushan/First-Angular-Demo/blob/master/demo/Angular%20Home%20Page.jpg)
+![image](https://github.com/Mindula-Dilthushan/First-Angular-Demo/blob/master/demo/Angular%20Home%20Page.jpg)
